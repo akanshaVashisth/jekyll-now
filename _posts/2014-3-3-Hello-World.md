@@ -5,7 +5,7 @@ title: Hello World!
 
 
 
-As you all know, this being my first post, I am way too excited about it. Writing a blog has always been in my bucket list and I’m finally living it. I hope something or the other makes sense to you.
+As you all know, this being my first post, I am way too excited about it. Writing a blog has always been in my bucket list and I’m finally doing it. I hope something or the other makes sense to you. Stay tuned for some great stories from my data science journey.
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
