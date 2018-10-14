@@ -4,12 +4,10 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Data Science student @ University of British Columbia. A technology enthusiast, programmer, traveller and blogger. Software Engineer @ Hexaware Technologies
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[akanshavashisth01@gmail.com](mailto:email@domain.com)
